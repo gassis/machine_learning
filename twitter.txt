@@ -1,0 +1,48 @@
+API Key
+9mmvxstYsxZJge3XAztvDYEX1
+
+API Key Secret
+1q0tYBnBKK0dBZ1ENOFDNDpmrcDOfDToLiMPsK7Lyv6TyPWhes
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAAATDagEAAAAA8iY2wXb76e9Jato6odj%2BiSLi7QE%3DSeFmfNxAlKzAQfprhPj5J5VzGG06ZInwm8hkeoNoextqD9PAup
+
+Access Token
+110406901-2WAs5DAxu0h5fNKQdGdKIWQXlcVq6Jlpg3npEzku
+
+Access Token Secret
+GhVbT7e8vmD0I9bwWY2mh6npcqj1AqqQg8qAWXyUelZ4K
+
+
+
+Did you save your API Key and API Key Secret?
+Save them in a secure location
+Treat them like a password or a set of keys
+If security has been compromised, regenerate them
+DO NOT store them in public places or shared docs
+
+API Key
+
+
+9mmvxstYsxZJge3XAztvDYEX1
+
+
+API Key Secret
+
+
+1q0tYBnBKK0dBZ1ENOFDNDpmrcDOfDToLiMPsK7Lyv6TyPWhes
+
+
+Bearer Token
+
+
+AAAAAAAAAAAAAAAAAAAAAATDagEAAAAA8iY2wXb76e9Jato6odj%2BiSLi7QE%3DSeFmfNxAlKzAQfprhPj5J5VzGG06ZInwm8hkeoNoextqD9PAup
+
+
+Access Token
+
+110406901-2WAs5DAxu0h5fNKQdGdKIWQXlcVq6Jlpg3npEzku
+
+Access Token Secret
+
+GhVbT7e8vmD0I9bwWY2mh6npcqj1AqqQg8qAWXyUelZ4K
